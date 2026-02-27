@@ -1,10 +1,10 @@
 # Site Settings
-baseurl: ""
-url : "https://naye0ng.github.io"
+baseurl: "/yass-blog"
+url : "https://yass-blog.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : yass-blog
   favicon : assets/favicon.ico
 
   # Profile Settings
@@ -12,13 +12,13 @@ theme_settings :
     image : assets/img/smile.png
     username : yasmine
     description : aspiring blue teamer and DFIR analyst. Here I write about security labs, capture-the-flag challenges, and everything I learn along the way.
-    experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : Python
+        value : 75  # Percent value
+      - skill : Linux / Bash 
+        value : 70  # Percent value
+      - skill : SQL
+        value : 70  # Percent value
         
   # Icons
   icons :
