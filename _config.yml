@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/profile_picture.png
     username : yasmine
     description : aspiring blue teamer and DFIR analyst. Here I write about security labs, capture-the-flag challenges, and everything I learn along the way.
     skills : 
