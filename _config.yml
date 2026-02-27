@@ -1,10 +1,10 @@
 # Site Settings
 baseurl: "/yass-blog"
-url : "https://yass-blog.github.io"
+url : "https://eth3ral0.github.io"
 
 # Blog Settings
 theme_settings :
-  title : yass-blog
+  title : yass blog
   favicon : assets/favicon.ico
 
   # Profile Settings
