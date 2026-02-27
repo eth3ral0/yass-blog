@@ -23,7 +23,7 @@ theme_settings :
   # Icons
   icons :
     email: yasmine.mahfoudh@pm.me
-    linkedin:  www.linkedin.com/in/yasmine-mahfoudh-/
+        linkedin:  https://www.linkedin.com/in/yasmine-mahfoudh-/
     github: eth3ral0
 
 
@@ -34,7 +34,7 @@ theme_settings :
 paginate: 5
 paginate_path: "blog/page:num"
 
-# Build Ssttings
+# Build Settings
 sass:
   sass_dir: _sass
   style: compressed
