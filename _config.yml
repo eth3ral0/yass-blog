@@ -10,8 +10,8 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : yasmine
+    description : aspiring blue teamer and DFIR analyst. Here I write about security labs, capture-the-flag challenges, and everything I learn along the way.
     experience :
       - start : 2017-05-03
         end : 2018-05-06
@@ -22,16 +22,10 @@ theme_settings :
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
-    gitlab: 
-    bitbucket: 
-    google_plus:
-    twitter:
-    youtube:
-    facebook:
-    instagram:
+    email: yasmine.mahfoudh@pm.me
+    linkedin:  www.linkedin.com/in/yasmine-mahfoudh-/
+    github: eth3ral0
+
 
   # Disqus
   disqus_shortname :
@@ -43,7 +37,7 @@ paginate_path: "blog/page:num"
 # Build Ssttings
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 gems: [jekyll-paginate]
 bootstrap:
   assets: true
