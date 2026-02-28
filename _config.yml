@@ -1,6 +1,6 @@
 # Site Settings
-baseurl: ""
-url : "https://eth3ral0.github.io"
+baseurl: "/yass-blog"
+url: "https://eth3ral0.github.io"
 
 # Blog Settings
 theme_settings :
