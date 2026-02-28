@@ -67,9 +67,6 @@ theme_settings :
     linkedin: https://www.linkedin.com/in/yasmine-mahfoudh-/
     github: eth3ral0
 
-# Disqus
-disqus_shortname :
-
 # Pagination
 paginate: 5
 paginate_path: "blog/page:num"
