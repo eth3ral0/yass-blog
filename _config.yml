@@ -59,8 +59,11 @@ theme_settings :
       - skill : Windows Server
           value : 60
 
-        
-  # Icons
+    experience:
+      - start : 2025-09
+        end : present
+        experience : Paris Cité - Rives de Seine : BUT Informatique
+  # Icons 
   icons :
     email: yasmine.mahfoudh@pm.me
     linkedin:  https://www.linkedin.com/in/yasmine-mahfoudh-/
