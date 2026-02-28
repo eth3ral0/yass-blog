@@ -12,66 +12,63 @@ theme_settings :
     image : assets/img/profile_picture.png
     username : yasmine
     description : aspiring blue teamer and DFIR analyst. Here I write about security labs, capture-the-flag challenges, and everything I learn along the way.
-        skills :
-      # --- Langages de programmation ---
-      - skill : "— Languages —"
-          value : 0
-      - skill : Python
-          value : 75
-      - skill : Java
-          value : 65
-      - skill : C
-          value : 60
-      - skill : HTML / CSS / JS
-          value : 65
-      - skill : SQL
-          value : 70
-      - skill : Bash / PowerShell
-          value : 70
-
-      # --- Cybersécurité ---
-      - skill : "— Cybersecurity —"
-          value : 0
-      - skill : DFIR & Forensics
-          value : 65
-      - skill : SOC / Blue Team
-          value : 60
-      - skill : CTF (TryHackMe / RootMe)
-          value : 70
-      - skill : OSINT
-          value : 65
-      - skill : Wireshark / Tcpdump
-          value : 65
-      - skill : OWASP / Web Security
-          value : 60
-
-      # --- Outils & Infra ---
-      - skill : "— Tools & Infra —"
-          value : 0
-      - skill : Git / GitHub
-          value : 75
-      - skill : Docker
-          value : 60
-      - skill : VMware / VirtualBox
-          value : 70
-      - skill : Linux (Debian/Kali)
-          value : 75
-      - skill : Windows Server
-          value : 60
-
-    experience:
-      - start : 2025-09
+    experience :
+      - start : 2024-04
+        end : 2024-07
+        experience : IT Support Intern — Helpdesk & System Administration
+      - start : 2024-09
         end : present
-        experience : Paris Cité - Rives de Seine : BUT Informatique
-  # Icons 
+        experience : BUT Informatique — Paris, Cybersecurity track
+    skills :
+      - skill : "— Languages —"
+        value : 0
+      - skill : Python
+        value : 75
+      - skill : Java
+        value : 65
+      - skill : C
+        value : 60
+      - skill : HTML / CSS / JS
+        value : 65
+      - skill : SQL
+        value : 70
+      - skill : Bash / PowerShell
+        value : 70
+      - skill : "— Cybersecurity —"
+        value : 0
+      - skill : DFIR & Forensics
+        value : 65
+      - skill : SOC / Blue Team
+        value : 60
+      - skill : CTF (TryHackMe / RootMe)
+        value : 70
+      - skill : OSINT
+        value : 65
+      - skill : Wireshark / Tcpdump
+        value : 65
+      - skill : OWASP / Web Security
+        value : 60
+      - skill : "— Tools & Infra —"
+        value : 0
+      - skill : Git / GitHub
+        value : 75
+      - skill : Docker
+        value : 60
+      - skill : VMware / VirtualBox
+        value : 70
+      - skill : Linux (Debian/Kali)
+        value : 75
+      - skill : Windows Server
+        value : 60
+
+  # Icons
   icons :
     email: yasmine.mahfoudh@pm.me
-    linkedin:  https://www.linkedin.com/in/yasmine-mahfoudh-/
+    linkedin: https://www.linkedin.com/in/yasmine-mahfoudh-/
     github: eth3ral0
 
-
-  # Disqus
-  disqus_shortname :
+# Disqus
+disqus_shortname :
 
 # Pagination
 paginate: 5
@@ -81,7 +78,6 @@ paginate_path: "blog/page:num"
 sass:
   sass_dir: _sass
   style: compressed
+
 plugins:
   - jekyll-paginate
-bootstrap:
-  assets: true
