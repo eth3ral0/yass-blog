@@ -13,12 +13,9 @@ theme_settings :
     username : yasmine
     description : aspiring blue teamer and DFIR analyst. Here I write about security labs, capture-the-flag challenges, and everything I learn along the way.
     experience :
-      - start : 2024-04
-        end : 2024-07
-        experience : IT Support Intern — Helpdesk & System Administration
       - start : 2024-09
         end : present
-        experience : BUT Informatique — Paris, Cybersecurity track
+        experience : BUT Informatique, Paris Cité
     skills :
       - skill : "— Languages —"
         value : 0
@@ -63,7 +60,6 @@ theme_settings :
 
   # Icons
   icons :
-    email: yasmine.mahfoudh@pm.me
     linkedin: https://www.linkedin.com/in/yasmine-mahfoudh-/
     github: eth3ral0
 
@@ -75,6 +71,6 @@ paginate_path: "blog/page:num"
 sass:
   sass_dir: _sass
   style: compressed
-
-plugins:
-  - jekyll-paginate
+gems: [jekyll-paginate]
+bootstrap::
+  assets: true
