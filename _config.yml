@@ -11,7 +11,7 @@ theme_settings :
   profile :
     image : assets/img/profile_picture.png
     username : yasmine
-    description : aspiring blue teamer and DFIR analyst. Here I write about security labs, capture-the-flag challenges, and everything I learn along the way.
+    description : aspiring blue teamer and DFIR analyst. here I write about security labs, capture-the-flag challenges, and everything I learn along the way.
     experience :
       - start : 2024-09
         end : present
