@@ -26,23 +26,6 @@ Built with **Jekyll** using the [Grape Theme](https://github.com/naye0ng/Grape-T
 
 ---
 
-## Local Development
-
-```bash
-# Clone the repo
-git clone https://github.com/eth3ral0/yass-blog.git
-cd yass-blog
-
-# Install dependencies
-bundle install
-
-# Serve locally
-bundle exec jekyll serve
-```
-
-Then open [http://localhost:4000/yass-blog](http://localhost:4000/yass-blog)
-
----
 
 ## Tech Stack
 
